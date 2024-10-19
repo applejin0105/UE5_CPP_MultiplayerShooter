@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Intermediate\Build\Win64\x64\MenuSystemEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Module.TestPlugin.cpp.obj"
+"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\MySimpleActor.cpp.obj"
+"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\TestPlugin.cpp.obj"
+"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\Default.rc2.res"
+/OUT:"C:\Users\apple\Documents\Unreal Projects\MenuSystem\Plugins\TestPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestPlugin\UnrealEditor-TestPlugin.lib"

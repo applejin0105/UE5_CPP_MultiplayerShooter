@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\unreal projects\\menusystem\\plugins\\testplugin\\source\\testplugin\\private\\testplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\unreal projects\\menusystem\\intermediate\\build\\win64\\x64\\menusystemeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\unreal projects\\menusystem\\plugins\\testplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testplugin\\definitions.testplugin.h",
+            "d:\\unreal projects\\unreal projects\\menusystem\\plugins\\testplugin\\source\\testplugin\\public\\testplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
