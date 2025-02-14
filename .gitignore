@@ -1,6 +1,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Rider user specific files
+.idea/
+Plugins/Developer/
+Plugins/Developer/*
+Plugins/Developer/*/**
+
 # Compiled Object files
 *.slo
 *.lo
@@ -47,7 +53,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/**/Binaries/*
+Plugins/*/Binaries/*
 
 # Builds
 Build/*
@@ -68,7 +74,15 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/**/Intermediate/*
+Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Temporary development files for each developer
+Content/Developers/*/*
+!Content/Developers/*/Shared
+Source/RSE/Public/Developers/*/*
+!Source/RSE/Public/Developers/*/Shared
+Source/RSE/Private/Developers/*/*
+!Source/RSE/Private/Developers/*/Shared
